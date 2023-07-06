@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Why Fall?</title>
+	<style>
+		body {
+			background-color: orange;
+		}
+	</style>
+</head>
+<body>
+	<a href="index.html">Home</a>
+	<h1>Why is my favorite season fall?</h1>
+	<p>
+		Fall is undoubtedly the best season, offering a multitude of reasons to appreciate its unique charm. One cannot help but be captivated by the breathtaking display of vibrant colors that adorn the trees during this time. As the leaves transition into stunning shades of red, orange, and yellow, the landscape transforms into a picturesque masterpiece. The cool, crisp air of fall adds to its allure, providing a refreshing respite after the sweltering heat of summer. It is the ideal weather for engaging in outdoor activities such as hiking, picnics, and apple picking. The gentle breeze rustling through the trees and the crunch of fallen leaves underfoot create a sensory symphony that is both soothing and invigorating. Moreover, fall introduces a sense of coziness and comfort as we trade in our summer attire for cozy sweaters, scarves, and boots. It brings the anticipation of sipping warm beverages like pumpkin spice lattes and indulging in seasonal treats like apple pie and roasted chestnuts. Fall also signifies a time of harvest and abundance, with farmers' markets brimming with a variety of fresh produce and the aroma of spices filling the air. Finally, fall is a season of celebration, with festivals and holidays like Halloween and Thanksgiving that bring communities together in joyous revelry. In essence, fall's magical blend of vibrant colors, invigorating weather, cozy ambiance, and delightful festivities makes it an unequivocal favorite among seasons.
+
+
+
+
+
+	</p>
+</body>
+</html>
