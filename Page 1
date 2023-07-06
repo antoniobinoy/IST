@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Fall is the best</title>
+	<style>
+		body {
+			background-color: orange;
+		}
+	</style>
+</head>
+
+<body>
+	<a href="page2.html">Why Fall?</a>
+	<h1>My favorite season is fall</h1>
+
+	<img
+		src="https://media.istockphoto.com/id/1278765757/photo/autumn-leaves-falling-on-the-ground-in-a-park.jpg?s=612x612&w=0&k=20&c=JYuBPigJOlFPLX-YjBwJVGyhQCk2PHTZwoW_yLGF16E=" />
+	<h2>Holidays in Fall</h2>
+	<ul>
+		<li>Labour Day</li>
+		<li>Halloween</li>
+		<li>Diwali</li>
+		<li>Thanksgiving Day</li>
+	</ul>
+</body>
+
+</html>
